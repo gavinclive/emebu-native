@@ -1,6 +1,4 @@
-# emebu
-
-A new Flutter project.
+A native webview app for Emebu.
 
 ## Getting Started
 
