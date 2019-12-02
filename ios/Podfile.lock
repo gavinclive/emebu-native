@@ -1,0 +1,53 @@
+PODS:
+  - connectivity (0.0.1):
+    - Flutter
+    - Reachability
+  - Flutter (1.0.0)
+  - flutter_inappwebview (0.0.1):
+    - Flutter
+  - flutter_statusbarcolor (0.0.1):
+    - Flutter
+  - flutter_webview_plugin (0.0.1):
+    - Flutter
+  - permission_handler (4.0.0):
+    - Flutter
+  - Reachability (3.2)
+
+DEPENDENCIES:
+  - connectivity (from `.symlinks/plugins/connectivity/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_inappwebview (from `.symlinks/plugins/flutter_inappwebview/ios`)
+  - flutter_statusbarcolor (from `.symlinks/plugins/flutter_statusbarcolor/ios`)
+  - flutter_webview_plugin (from `.symlinks/plugins/flutter_webview_plugin/ios`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Reachability
+
+EXTERNAL SOURCES:
+  connectivity:
+    :path: ".symlinks/plugins/connectivity/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_inappwebview:
+    :path: ".symlinks/plugins/flutter_inappwebview/ios"
+  flutter_statusbarcolor:
+    :path: ".symlinks/plugins/flutter_statusbarcolor/ios"
+  flutter_webview_plugin:
+    :path: ".symlinks/plugins/flutter_webview_plugin/ios"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+
+SPEC CHECKSUMS:
+  connectivity: 6e94255659cc86dcbef1d452ad3e0491bb1b3e75
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_inappwebview: 239198123453705522ba6c4f78d3d7468215f248
+  flutter_statusbarcolor: 8afb1071ed8c58be929f1e32b36c629771fd2259
+  flutter_webview_plugin: ed9e8a6a96baf0c867e90e1bce2673913eeac694
+  permission_handler: 0fb88b8a3c23e31e5de45b8f1bb8b7de28cf8941
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+
+PODFILE CHECKSUM: 10ae9c18d12c9ffc2275c9a159a3b1e281990db0
+
+COCOAPODS: 1.7.5
