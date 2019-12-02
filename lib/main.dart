@@ -78,7 +78,7 @@ class _InAppWebViewPageState extends State<InAppWebViewPage> {
                 inAppWebViewOptions: InAppWebViewOptions(
                   mediaPlaybackRequiresUserGesture: false,
                   debuggingEnabled: true,
-                  userAgent: 'Wolvpack/0.0.1'
+                  userAgent: 'Wolvpack/0.0.1 (iPhone; CPU iPhone OS 9_3_1 like Mac OS X)'
                 ),
               ),
               onWebViewCreated: (InAppWebViewController controller) {
