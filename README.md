@@ -1,4 +1,7 @@
-A native webview app for Emebu.
+# emebu
+Emebu is our project that aims to become an event sharing platform with ticketing platform and P2P approach between attendees and event organizers. Emebu comes in the form of web app and mobile app.
+
+[Link to the web app repository](https://github.com/gavinclive/emebu)
 
 ## Getting Started
 
